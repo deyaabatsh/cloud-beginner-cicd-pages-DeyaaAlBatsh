@@ -8,7 +8,7 @@
 
 ## 🔗 Live GitHub Pages Link
 
-👉 [https://deyaabatsh.github.io/cloud-beginner-cicd-pages-YourName/](https://deyaabatsh.github.io/cloud-beginner-cicd-pages-YourName/)
+👉 [https://deyaabatsh.github.io/cloud-beginner-cicd-pages-DeyaaAlBatsh/](https://deyaabatsh.github.io/cloud-beginner-cicd-pages-DeyaaAlBatsh/)
 
 *(Replace this URL with your actual GitHub Pages URL after deployment)*
 
@@ -40,7 +40,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deyaabatsh/cloud-beginner-cicd-pages-YourName.git
+   git clone https://github.com/deyaabatsh/cloud-beginner-cicd-pages-DeyaaAlBatsh.git
    ```
 2. Navigate to the project folder:
    ```bash
